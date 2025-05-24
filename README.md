@@ -9,10 +9,8 @@ Fonctionnalités
 
 ✅ Création de compte utilisateur ✅ Opérations de dépôt et retrait ✅ Consultation du solde ✅ API simple avec réponses en JSON ✅ Crow pour la gestion rapide des requêtes
 
-#Membres
+![Screenshot 2025-05-24 at 07-42-13 Secure Bank Dashboard](https://github.com/user-attachments/assets/8ec90291-df8d-4013-a6e4-ea7997525ffc)
 
-#Tapsoba Jascob Evariste
 
-#Neya Moussa 
 
-#Some B Odilon
+![Screenshot 2025-05-24 at 07-42-49 Transaction Logs](https://github.com/user-attachments/assets/d267a600-f6a0-4070-a678-127ecc35bc1e)
